@@ -47,7 +47,7 @@
     <br />`مساعدة: let div = document.getElementById('result')`
     - غير النص الداخلي للعنصر div باستخدام innerTEXT واجعل قيمته كالآتي:
     <br/>`bmi + " == " + desc`
-    <br/>`مساعدة: div.innerTEXT = bmi + " == " + desc`
+    <br/>`مساعدة: div.innerText = bmi + " == " + desc`
 9. أضف حدث onclick إلى الزر ليستدعِ دالة calculate
 10. احفظ التغييرات وارفع الكود إلى github
 11. قم بتسليم التمرين في موقع Coded lab
